@@ -1,0 +1,34 @@
+<!doctype html>
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="midtermstyle.css">>
+
+  <title>Nasty Woman</title>
+</head>
+<body>
+	<header>
+		<h1><a href="midtermindex.html">Nasty Woman</a></h1>
+		<div class="navbar">
+			<ul>
+				<li><b><a href="newsmidterm.html">News</a></b></li>
+				<li><a href="http://www.complex.com/">Culture</a></li>
+				<li><a href="http://www.thefader.com/music">Music</a></li>	
+				<li><a href="http://www.artinamericamagazine.com/">Art</a></li>
+				<li><a href="http://alturee.com/">Fashion & Beauty</a></li>
+				<li><a href="http://www.saveur.com/">Food</a></li>
+			</ul>
+			</header>
+			</div>
+			<h2><center>Luella Bartley Is The New Brain Behind Calvin Klein Jeans</h2>
+			<h2><center><small><i>The classic American brand is absorbing some British flavor.</i></small></h2>
+			<p><center>Shannon May Powell</p>
+			<p><center>28 February, 2017</p>
+			<img src="http://stylebubble.co.uk/wp-content/uploads/2014/07/Luella-Bartley_exact780x1040_p.jpg" width="360" height="500">
+			<div class="paragraph">
+						<p><center>Calvin Klein has revealed that legendary British designer Luella Bartley will be joining its team as Head of Global Design for Jeans. One half of the label Hillier Bartley, Luella has previously lent her skills to Marc by Marc Jacobs, Victoria Beckham, and Mulberry among others. Across her career, she's developed a reputation for her nonchalant and rebellious style, bringing an androgynous, youth-driven aesthetic to the brands that she works with. Sounds like she'll fit right in at Calvin Klein.</p>
+						<p><center> While Bartley is yet to release an official statement about her new role, there's no doubt she's excited to join Raf's bold venture. Earlier in the month, Simons' debut Calvin Klein collection was lauded for its fresh examination of American youth.</p>
+			</center>
+			</div>
+		</body>
+</html>
